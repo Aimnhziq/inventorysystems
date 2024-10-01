@@ -181,7 +181,7 @@ $result = $conn->query($sql);
         <ul id="order-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
           <li>
             <a href="createorder.php">
-              <i class="bi bi-circle"></i><span>View</span>
+              <i class="bi bi-circle"></i><span>Create</span>
             </a>
           </li>
           <li>
